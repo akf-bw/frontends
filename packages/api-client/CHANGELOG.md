@@ -1,5 +1,14 @@
 # @shopware-pwa/api-client
 
+## 0.7.1
+
+### Patch Changes
+
+- [#931](https://github.com/shopware/frontends/pull/931) [`3cc3d5e`](https://github.com/shopware/frontends/commit/3cc3d5e7b67522f8f7f1d9bed639f18d3e384239) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - Adjust formsService types
+
+- Updated dependencies [[`543a8e1`](https://github.com/shopware/frontends/commit/543a8e1fb3b391a0238f329e0ead30b8322016ec)]:
+  - @shopware-pwa/types@0.7.0
+
 ## 0.7.0
 
 ### Minor Changes
